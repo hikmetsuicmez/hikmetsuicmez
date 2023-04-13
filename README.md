@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/hkmtscmz" target="blank"><img src="https://img.shields.io/twitter/follow/hkmtscmz?logo=twitter&style=for-the-badge" alt="hkmtscmz" /></a> </p>
 
-- 🔭 I’m currently working on [UpShoping](https://github.com/UpShoping)
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Java, Python**
