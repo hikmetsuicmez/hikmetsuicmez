@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hikmet Suiçmez</h1>
-<h3 align="center">Software Development Student</h3>
+<h3 align="center">BACKEND DEVELOPER - JAVA & SPRING BOOT ENTHUSIAST</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hikmetsuicmez&label=Profile%20views&color=0e75b6&style=flat" alt="hikmetsuicmez" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, Spring Boot**
 
 - 📫 How to reach me **suicmezhikmet1@gmail.com**
 
@@ -22,5 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmetsuicmez&show_icons=true&locale=en&layout=compact" alt="hikmetsuicmez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikmetsuicmez&show_icons=true&locale=en" alt="hikmetsuicmez" /></p>
 
