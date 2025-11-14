@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
+- I work as a Java developer at İnfina Software company.
+
 - 💬 Ask me about **Java, Spring Boot**
 
 - 📫 How to reach me **hikmetsuicmez@outlook.com**
